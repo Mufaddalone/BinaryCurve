@@ -1,11 +1,14 @@
-#Installation
+# Installation
 ######
 `1.git clone https://github.com/Mufaddalone/BinaryCurve
+<br/>
  2.cd BinaryCurve
+ <br/>
  3.npm install
+ <br/>
  4.npm start`
 
-#Requirements
+# Requirements
 1.react-to-print(https://www.npmjs.com/package/react-to-print)
 2.material ui(https://www.npmjs.com/package/@material-ui/core)
 
