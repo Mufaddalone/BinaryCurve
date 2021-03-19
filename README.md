@@ -1,3 +1,15 @@
+#Installation
+######
+`1.git clone https://github.com/Mufaddalone/BinaryCurve
+ 2.cd BinaryCurve
+ 3.npm install
+ 4.npm start`
+
+#Requirements
+1.react-to-print(https://www.npmjs.com/package/react-to-print)
+2.material ui(https://www.npmjs.com/package/@material-ui/core)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
